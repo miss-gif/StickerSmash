@@ -221,3 +221,15 @@ npx expo install expo-image
 ```
 npx expo install expo-image-picker
 ```
+
+12. 모달 열기
+
+```
+<Pressable style={styles.button}  onPress={onPress}>
+```
+
+13. 제스처 추가
+
+```
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+```
