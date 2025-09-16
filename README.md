@@ -215,3 +215,9 @@ export default function TabLayout() {
 ```
 npx expo install expo-image
 ```
+
+11. 이미지 선택기
+
+```
+npx expo install expo-image-picker
+```
