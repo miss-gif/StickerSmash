@@ -209,3 +209,9 @@ export default function TabLayout() {
 }
 
 ```
+
+10. 이미지 사용
+
+```
+npx expo install expo-image
+```
