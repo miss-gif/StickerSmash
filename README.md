@@ -237,5 +237,15 @@ import { GestureHandlerRootView } from "react-native-gesture-handler";
 14. 카메라 권한 요청
 
 ```
-usePermissions()hook from을 사용하면 expo-media-library권한 permissionResponse과 requestPermission()메서드를 사용하여 접근 권한을 요청할 수 있습니다.
+npx expo install react-native-view-shot expo-media-library
 ```
+
+usePermissions()hook from을 사용하면 expo-media-library권한 permissionResponse과 requestPermission()메서드를 사용하여 접근 권한을 요청할 수 있습니다.
+
+15. 웹에서 스크린샷 기능 사용
+
+```
+npm install dom-to-image
+```
+
+웹에서 스크린샷을 캡처하여 이미지로 저장
