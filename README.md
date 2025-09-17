@@ -233,3 +233,9 @@ npx expo install expo-image-picker
 ```
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 ```
+
+14. 카메라 권한 요청
+
+```
+usePermissions()hook from을 사용하면 expo-media-library권한 permissionResponse과 requestPermission()메서드를 사용하여 접근 권한을 요청할 수 있습니다.
+```
